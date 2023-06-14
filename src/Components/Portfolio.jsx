@@ -44,11 +44,9 @@ const projectList = [
   },
   {
     title: "Network design project",
-    description:
-      "LAN design and implementation with high availability.",
+    description: "LAN design and implementation with high availability.",
     url: "#",
   },
-  
 ];
 
 const Portfolio = () => {
